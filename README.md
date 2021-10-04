@@ -5,7 +5,7 @@
 
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-al4xs/)
 
-[![BLOG](https://github-readme-stats.vercel.app/api?username=michaelklaan&theme=radical)](https://github.com/michalklaan)
+[![BLOG](https://github-readme-stats.vercel.app/api?username=michaelklaan&theme=radical)](https://github.com/michaelklaan)
 
 ## Tecnologias que uso no meu dia a dia
 
