@@ -1,8 +1,5 @@
 ### Ola! eu sou o michael klaan 👋
 
-<img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
-
-
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-al4xs/)
 
 [![BLOG](https://github-readme-stats.vercel.app/api?username=michaelklaan&theme=radical)](https://github.com/michaelklaan)
@@ -20,6 +17,10 @@
 ## Mais sobre mim
 
 Granduando em cyber defesa! Apaixonado por tecnologia e hacking.
+
+## Esse e o meu perfil do hackthebox
+
+<img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
 
 #Pentester - Cyber Security Consultant
 
