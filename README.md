@@ -24,7 +24,7 @@ Granduando em cyber defesa! Apaixonado por tecnologia e hacking.
 
 ## Esse e o meu perfil do Tryhackme
 
-<img src="https://tryhackme.com/badge/234103" alt="Try Hack Me">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe">
 
 #Pentester - Cyber Security Consultant
 
