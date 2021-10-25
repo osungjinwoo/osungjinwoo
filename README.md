@@ -23,7 +23,8 @@ Granduando em cyber defesa! Apaixonado por tecnologia e hacking.
 <img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
 
 ## Esse e o meu perfil do Tryhackme
-<script src="https://tryhackme.com/badge/234103"></script>
+
+<img src="https://tryhackme.com/badge/234103" alt="Try Hack Me">
 
 #Pentester - Cyber Security Consultant
 
