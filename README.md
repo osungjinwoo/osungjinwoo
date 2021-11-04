@@ -16,6 +16,7 @@
 </div>
 
 [![BLOG](https://github-readme-stats.vercel.app/api?username=michaelklaan&theme=radical)](https://github.com/michaelklaan)
+[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelklaan&layout=compact&langs_count=7&theme=radical&include_all_commits=true)](https://github.com/michaelklaan)
 
 ## Tecnologias que uso no meu dia a dia
 
