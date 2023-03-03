@@ -26,10 +26,10 @@
 <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="Office" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif" weigth=500 align="right")
 </div>
-![image](https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif)
+<br\>
 
-## Esse e o meu perfil do Hackthebox e do Tryhackme
+ ## Hackeando pra chegar at
 <img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
 <img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe">
