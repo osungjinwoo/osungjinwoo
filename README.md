@@ -27,8 +27,8 @@
 <img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="Office" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="right" alt="Michael-pic" height="150" src="![image](https://user-images.githubusercontent.com/40411471/222613926-58324643-8b39-4c1e-8a88-7e7928d8e3e0.png)
-" data-canonical-src="![image](https://user-images.githubusercontent.com/40411471/222613974-8afc5ad3-a7dd-4a92-950d-50661b39bf4a.png)" style="max-width: 100%;">
+<img align="right" alt="Michael-pic" height="150" src="![image](https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif)
+" data-canonical-src="![image](https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif)" style="max-width: 100%;">
 </div>
 
 ## Esse e o meu perfil do Hackthebox e do Tryhackme
