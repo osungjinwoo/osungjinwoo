@@ -14,6 +14,7 @@
 <a href = "mailto:al4xs@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/michael-al4xs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=al4xs&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![BLOG](https://github-readme-stats.vercel.app/api?username=al4xs&theme=radical)](https://github.com/al4xs)
 [![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=al4xs&layout=compact&langs_count=7&theme=radical&include_all_commits=true)](https://github.com/al4xs)
