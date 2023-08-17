@@ -1,9 +1,9 @@
 <h4 align="center">
  
 ![image](https://i.ytimg.com/vi/Rv8iavwm7eo/maxresdefault.jpg)
-
-### Eu sou Michael Silva 👋
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Eu sou Michael Silva" src="./assets/gh-readme-header.png" /></a></p>
+### Eu sou Michael Silva 👋
+
 - Penetration Tester
 - CTF player
 - Graduando em Cyber Defesa
