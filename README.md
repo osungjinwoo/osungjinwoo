@@ -17,8 +17,8 @@
 ## Estatísticas
 </div>
 
-[![BLOG](https://github-readme-stats.vercel.app/api?username=al4xs&theme=dark_dimmed)](https://github.com/al4xs)
-[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=al4xs&layout=compact&langs_count=7&theme=dark_dimmed&include_all_commits=true)](https://github.com/al4xs)
+[![BLOG](https://github-readme-stats.vercel.app/api?username=al4xs&theme=holi)](https://github.com/al4xs)
+[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=al4xs&layout=compact&langs_count=7&theme=holi&include_all_commits=true)](https://github.com/al4xs)
 [![trophy](https://github-profile-trophy.vercel.app/?username=al4xs&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 
