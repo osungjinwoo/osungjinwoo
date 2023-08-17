@@ -17,9 +17,9 @@
 ## Estatísticas
 </div>
 
-[![BLOG](https://github-readme-stats.vercel.app/api?username=al4xs&theme=dracula)](https://github.com/al4xs)
-[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=al4xs&layout=compact&langs_count=7&theme=dracula&include_all_commits=true)](https://github.com/al4xs)
-[![trophy](https://github-profile-trophy.vercel.app/?username=al4xs&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![BLOG](https://github-readme-stats.vercel.app/api?username=al4xs&theme=tokyonight)](https://github.com/al4xs)
+[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=al4xs&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true)](https://github.com/al4xs)
+[![trophy](https://github-profile-trophy.vercel.app/?username=al4xs&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tecnologias que uso no meu dia a dia
 
