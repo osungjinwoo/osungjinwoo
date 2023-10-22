@@ -35,6 +35,9 @@
 <br\>
 
  ## Hackeando pra chegar at&eacute; o ultimo andar | Minha pontuação em CTF
-<img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
-<img src="https://app.hackthebox.com/profile/348066" alt="Hack The Box">
-<img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe">
+<a href="https://app.hackthebox.com/profile/348066" target="_blank">
+  <img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
+</a>
+<a href="https://tryhackme.com/p/michaelklaan" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe">
+</a>
