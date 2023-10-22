@@ -12,7 +12,7 @@
 <div>
 <a href="https://github.com/al4xs/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/michaelferral4xs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-<a href = "mailto:al4xs@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:al4xs@protonmail.com"><img src="https://img.shields.io/badge/-protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/michael-al4xs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Estatísticas
@@ -30,10 +30,11 @@
 <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif" weigth=500 align="right")
+<img src="https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif" weigth=500 align="right")>
 </div>
 <br\>
 
- ## Hackeando pra chegar at&eacute; o ultimo andar
+ ## Hackeando pra chegar at&eacute; o ultimo andar | Minha pontuação em CTF
 <img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box">
+<img src="https://app.hackthebox.com/profile/348066" alt="Hack The Box">
 <img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe">
