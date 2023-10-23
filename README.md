@@ -30,7 +30,7 @@
 <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php7&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://i.pinimg.com/originals/26/fd/49/26fd49fa54b204fbaf6301efefd53ae2.gif" weigth=500 align="right")>
 </div>
