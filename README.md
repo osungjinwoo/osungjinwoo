@@ -7,7 +7,7 @@
 
 - Penetration Tester
 - CTF player
-- Graduando em Cyber Defesa
+- Graduado em Cyber Defesa
 - Apaixonado por segurança da informação e hacking
 <div>
 <a href="https://al4xs.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
