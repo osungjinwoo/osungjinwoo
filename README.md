@@ -39,7 +39,7 @@ Tecnologias que uso no meu dia a dia:
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php7&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/09/solo_leveling_o_que_e__w24vo9.jpg"/> 
+<img src="https://media1.tenor.com/m/gk9KRNDbE3gAAAAd/solo-leveling-jinwoo.gif"/> 
 
 
 </div>
@@ -57,7 +57,7 @@ Tecnologias que uso no meu dia a dia:
 </a>
 
 
-<img src="https://media1.tenor.com/m/bwUm6P6uGY8AAAAd/solo-leveling.gif"/>
+<img src="https://tenor.com/pt-BR/view/solo-leveling-ore-dake-level-up-na-ken-jin-woo-jinwoo-sung-gif-18031472189477869822"/>
 <br><br><br><br>
 
 </div>
