@@ -65,6 +65,6 @@ Tecnologias que uso no meu dia a dia:
 </a>
 
 <div>
-[![Solo Leveling](https://img.youtube.com/vi/ubk1aIb_h78/0.jpg)](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
+![Solo Leveling](https://static.vecteezy.com/ti/vetor-gratis/p1/9796088-botao-clique-aqui-com-icone-de-mao-em-fundo-branco-estilo-plano-botao-clique-com-mao-sinal-clique-clique-aqui-simbolo-vetor.jpg)](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
 </div>
 
