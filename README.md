@@ -57,7 +57,7 @@ Tecnologias que uso no meu dia a dia:
 </a>
 
 
-<img src="https://tenor.com/pt-BR/view/solo-leveling-ore-dake-level-up-na-ken-jin-woo-jinwoo-sung-gif-18031472189477869822"/>
+<img src="https://media1.tenor.com/m/-jyoa-cp2P4AAAAd/solo-leveling-ore-dake-level-up-na-ken.gif"/>
 <br><br><br><br>
 
 </div>
