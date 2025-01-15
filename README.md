@@ -65,6 +65,6 @@ Tecnologias que uso no meu dia a dia:
 </a>
 
 <div>
-[![Solo Leveling](https://uploads.jovemnerd.com.br/wp-content/uploads/2023/09/solo_leveling_o_que_e__w24vo9.jpg)](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
+[![Solo Leveling](https://uploads.jovemnerd.com.br/wp-content/uploads/2023/09/solo_leveling_o_que_e__w24vo9.jpg)] (https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
 </div>
 
