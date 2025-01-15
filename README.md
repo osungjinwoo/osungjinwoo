@@ -48,11 +48,6 @@ Tecnologias que uso no meu dia a dia:
 
 <div>
 
-<img src="https://media1.tenor.com/m/bwUm6P6uGY8AAAAd/solo-leveling.gif"/>
-<br><br><br><br>
-
-</div>
-
 <a href="https://app.hackthebox.com/profile/348066" target="_blank">
   <img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box"/>
 </a>
@@ -61,11 +56,8 @@ Tecnologias que uso no meu dia a dia:
   <img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe"/>
 </a>
 
-<a href="https://app.hackingclub.com/profile/user/2185" target="_blank">
-  <img src="https://app.hackingclub.com/profile/user/2185" alt="HackingClub"/>
-</a>
 
-<div>
-![clique aqui](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
+<img src="https://media1.tenor.com/m/bwUm6P6uGY8AAAAd/solo-leveling.gif"/>
+<br><br><br><br>
+
 </div>
-
