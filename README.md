@@ -30,6 +30,9 @@
 
 </div>
 
+<img src="https://media1.tenor.com/m/gk9KRNDbE3gAAAAd/solo-leveling-jinwoo.gif"/> 
+<br>
+
 Tecnologias que uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
@@ -39,7 +42,6 @@ Tecnologias que uso no meu dia a dia:
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php7&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://media1.tenor.com/m/gk9KRNDbE3gAAAAd/solo-leveling-jinwoo.gif"/> 
 
 
 </div>
