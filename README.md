@@ -39,6 +39,7 @@ Tecnologias que uso no meu dia a dia:
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php7&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/09/solo_leveling_o_que_e__w24vo9.jpg"/> 
 
 
 </div>
@@ -65,7 +66,6 @@ Tecnologias que uso no meu dia a dia:
 </a>
 
 <div>
-<img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/09/solo_leveling_o_que_e__w24vo9.jpg"/> 
 ![clique aqui](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
 </div>
 
