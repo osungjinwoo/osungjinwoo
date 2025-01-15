@@ -65,6 +65,6 @@ Tecnologias que uso no meu dia a dia:
 </a>
 
 <div>
-[![SawanoHiroyuki[nZk]:XAI - DARK ARIA ＜LV2＞ (Solo Leveling EP 6)](https://img.youtube.com/vi/ubk1aIb_h78/0.jpg)](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
+[![Solo Leveling](https://img.youtube.com/vi/ubk1aIb_h78/0.jpg)](https://youtu.be/ubk1aIb_h78&t=40?autoplay=1)
 </div>
 
