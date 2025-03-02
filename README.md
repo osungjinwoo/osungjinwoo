@@ -24,8 +24,8 @@
 ## Estat&iacute;sticas para nerds
 </div>
 
-[![BLOG](https://github-readme-stats.vercel.app/api?username=al4xs&theme=github_dark)](https://github.com/al4xs)
-[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=al4xs&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/al4xs)
+[![BLOG](https://github-readme-stats.vercel.app/api?username=osungjinwoo&theme=github_dark)](https://github.com/osungjinwoo)
+[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=osungjinwoo&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/osungjinwoo)
 
 
 </div>
