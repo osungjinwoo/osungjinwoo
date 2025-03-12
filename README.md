@@ -5,7 +5,7 @@
 
 # Oi, eu sou Michael 👋  e eu decidi aceitar a quest secreta
 
-<p>Sou conhecido na comunidade hacker como <strong>Sung</strong>, ou como o pr&oacute;prio <strong>Sung Jin-Woo</strong> do meu manhua favorito <em>Solo Leveling</em>.</p>
+<p>Sou conhecido na comunidade hacker como <strong>Sung</strong>, ou como o pr&oacute;prio <strong>Sung Jin-Woo</strong> do meu manhwa favorito <em>Solo Leveling</em>.</p>
 
 - Pentester
 - CTF player
