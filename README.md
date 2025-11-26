@@ -15,12 +15,6 @@
 <br>
 <div>
 
-<img src="https://i.pinimg.com/originals/0f/38/df/0f38df98067cb0b6535e09474839c4e7.gif" align="right"/>
-<a href="https://al4xs.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/michaelferral4xs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-<a href = "mailto:al4xs@protonmail.com"><img src="https://img.shields.io/badge/-protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/michael-al4xs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 ## Estat&iacute;sticas para nerds
 </div>
 
