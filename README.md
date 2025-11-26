@@ -14,7 +14,6 @@
 
 <br>
 <div>
-
 ## Estat&iacute;sticas para nerds
 </div>
 
