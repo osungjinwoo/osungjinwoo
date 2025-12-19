@@ -35,14 +35,6 @@ Tecnologias que uso no meu dia a dia:
 
 <div>
 
-<a href="https://app.hackthebox.com/profile/348066" target="_blank">
-  <img src="http://www.hackthebox.eu/badge/image/348066" alt="Hack The Box"/>
-</a>
-
-<a href="https://tryhackme.com/p/michaelklaan" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/michaelklaan.png" alt="TryHackMe"/>
-</a>
-
 
 <img src="https://media1.tenor.com/m/-jyoa-cp2P4AAAAd/solo-leveling-ore-dake-level-up-na-ken.gif"/>
 <br><br><br><br>
